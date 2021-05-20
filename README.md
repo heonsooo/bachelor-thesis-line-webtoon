@@ -3,4 +3,4 @@
 
 
 ## 데이터 수집 자동화
-<img width="80" src="https://user-images.githubusercontent.com/68042068/118991906-1bba0500-b9bf-11eb-8a31-9bda219c705d.mp4"/>
+<img width="70%" src="https://user-images.githubusercontent.com/68042068/118991906-1bba0500-b9bf-11eb-8a31-9bda219c705d.mp4"/>
