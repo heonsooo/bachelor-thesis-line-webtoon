@@ -27,3 +27,8 @@
 
 
 ## [[라인웹툰]데이터 전처리2.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC2.ipynb)
+
+
+## 수집 데이터 결과
+![data_webtoon](https://user-images.githubusercontent.com/68042068/119069846-d975df80-ba21-11eb-8df9-4b530dde7df9.jpg)
+
