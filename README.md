@@ -2,7 +2,8 @@
 [학사논문] 글로벌 웹툰 서비스(라인 웹툰) 데이터를 이용한 흥행 예측 모델 구축- 머신러닝을 중심으로
 
 
-## [라인웹툰]웹툰 데이터 자동 수집
+## [[라인웹툰]웹툰 데이터 자동 수집](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%9B%B9%ED%88%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%90%EB%8F%99%20%EC%88%98%EC%A7%91.ipynb)
+
 [웹툰 데이터 수집 자동화 Logics]
 1. 마우스 포인트 좌표 및 함수설정
 2. 각 장르의 첫번째 웹툰 클릭
@@ -18,3 +19,11 @@
 
 ### 시연 영상
 [![Video Label](http://img.youtube.com/vi/7zwFszKI4YA/0.jpg)](https://youtu.be/7zwFszKI4YA?t=0s)
+
+
+
+
+## [[라인웹툰]데이터 전처리1.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC1.ipynb)
+
+
+## [[라인웹툰]데이터 전처리2.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC2.ipynb)
