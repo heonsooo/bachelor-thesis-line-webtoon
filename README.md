@@ -32,7 +32,7 @@
   각 장르(SF, Drama, Romance, Superhero, Supernatural, Slice of life, Thriller, Action, Comedy, Fantasy)의 새로운 컬럼을 만들고,  
   해당 웹툰의 장르 값을 df.loc사용하여 1, 0으로 기입.   
     
-* 숫자 기호 (M:1,000,000 ,K:1,000) 변환 처리.  
+* df.str.replace() 이용하여 특정 컬럼(Total Likes, Subscribers) 숫자 단위(M:1,000,000 ,K:1,000)를 숫자로 변환 처리.  
    
 
 ## 수집 데이터 결과
