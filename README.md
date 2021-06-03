@@ -47,9 +47,9 @@
 * 라인웹툰에서 제공하는 요일별 현재 인기 웹툰을 4단계의 등급으로 target 라벨링
 
 
-## [[라인웹툰]머신러닝을 이용한 다중분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98.ipynb)
+## [[라인웹툰]머신러닝을 이용한 다중분류.ipynb]https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98.ipynb
   
-* 머신러닝 : 5개의 분류 모델을 이용한 다중분류 정확도 비교 
-   
-![2](https://user-images.githubusercontent.com/68042068/120127269-e486f780-c1f9-11eb-9047-ee614bb98d5c.jpg)
-![1](https://user-images.githubusercontent.com/68042068/120127237-d042fa80-c1f9-11eb-8d5b-0c78236344ba.jpg)
+* 머신러닝 : 6개의 분류 모델을 이용한 다중분류 정확도 비교 
+* 
+![1](https://user-images.githubusercontent.com/68042068/120603401-f4673b80-c486-11eb-8174-4c2088d73a8d.png)
+![2](https://user-images.githubusercontent.com/68042068/120603445-02b55780-c487-11eb-93fd-2ccc6a48cdf4.jpg)
