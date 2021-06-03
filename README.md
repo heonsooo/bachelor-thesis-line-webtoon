@@ -38,6 +38,15 @@
 ## 수집 데이터 결과
 ![data_webtoon](https://user-images.githubusercontent.com/68042068/119069846-d975df80-ba21-11eb-8df9-4b530dde7df9.jpg)
 
+
+## [[라인웹툰]데이터 라벨링(Target_등급) .ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%9D%BC%EB%B2%A8%EB%A7%81(Target_%EB%93%B1%EA%B8%89)%20.ipynb)
+
+[사용 기술 : 웹크롤링, Pandas, 스케일링]
+
+* 머신러닝(분류)을 위한 데이터 라벨링
+* 라인웹툰에서 제공하는 요일별 현재 인기 웹툰을 4단계의 등급으로 target 라벨링
+
+
 ## [[라인웹툰]머신러닝을 이용한 다중분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98.ipynb)
   
 * 머신러닝 : 5개의 분류 모델을 이용한 다중분류 정확도 비교 
