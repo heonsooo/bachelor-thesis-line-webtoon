@@ -44,13 +44,13 @@
 [사용 기술 : 웹크롤링, Pandas, 스케일링]
 
 * 머신러닝(분류)을 위한 데이터 라벨링
-* 라인웹툰에서 제공하는 요일별 현재 인기 웹툰을 4단계의 등급으로 target 라벨링
+* 라인웹툰에서 제공하는 요일별 현재 인기 웹툰을 2단계의 등급으로 target 라벨링
 
 
 ## [[라인웹툰]영어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%98%81%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
   
 * 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
-* 
+
 ![image](https://user-images.githubusercontent.com/68042068/144777372-c25c50d6-5742-491d-bba2-6141718db949.png)
 ![image](https://user-images.githubusercontent.com/68042068/144777388-597d0cff-469d-408d-9b9e-cf51042fbc19.png)
 
@@ -62,7 +62,7 @@
 ## [[라인웹툰]스페인어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
   
 * 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
-* 
+
 ![image](https://user-images.githubusercontent.com/68042068/144777589-1ba3f892-a3f5-4982-84bf-769648a32c17.png)
 ![image](https://user-images.githubusercontent.com/68042068/144777598-fb7ad6c4-14cb-4601-996b-8cedc6595bef.png)
 
@@ -75,7 +75,7 @@
 ## [[라인웹툰]인도네시아어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
   
 * 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
-* 
+
 ![image](https://user-images.githubusercontent.com/68042068/144777626-27cc8e87-26d5-45c8-8ddf-e28008ad04da.png)
 ![image](https://user-images.githubusercontent.com/68042068/144777637-806141d9-d84d-46f4-bc7c-00825934f25d.png)
 
