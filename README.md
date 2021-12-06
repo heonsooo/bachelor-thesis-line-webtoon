@@ -47,9 +47,40 @@
 * 라인웹툰에서 제공하는 요일별 현재 인기 웹툰을 4단계의 등급으로 target 라벨링
 
 
-## [[라인웹툰]머신러닝을 이용한 다중분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98.ipynb)
+## [[라인웹툰]영어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%98%81%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
   
-* 머신러닝 : 6개의 분류 모델을 이용한 다중분류 정확도 비교 
+* 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
 * 
-![1](https://user-images.githubusercontent.com/68042068/120603401-f4673b80-c486-11eb-8174-4c2088d73a8d.png)
-![2](https://user-images.githubusercontent.com/68042068/120603445-02b55780-c487-11eb-93fd-2ccc6a48cdf4.jpg)
+![image](https://user-images.githubusercontent.com/68042068/144777372-c25c50d6-5742-491d-bba2-6141718db949.png)
+![image](https://user-images.githubusercontent.com/68042068/144777388-597d0cff-469d-408d-9b9e-cf51042fbc19.png)
+
+![image](https://user-images.githubusercontent.com/68042068/144777550-7f9d268d-ea0f-4f7b-9bd4-eb39d0892463.png)
+: 랜덤포레스트 / 피처 중요도
+![image](https://user-images.githubusercontent.com/68042068/144777526-bb6a2fad-57b3-49b7-a094-0311961465e1.png)
+: 로지스틱 회귀 상관계수
+
+## [[라인웹툰]스페인어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
+  
+* 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
+* 
+![image](https://user-images.githubusercontent.com/68042068/144777589-1ba3f892-a3f5-4982-84bf-769648a32c17.png)
+![image](https://user-images.githubusercontent.com/68042068/144777598-fb7ad6c4-14cb-4601-996b-8cedc6595bef.png)
+
+![image](https://user-images.githubusercontent.com/68042068/144777579-562838ef-6d83-4131-85a4-1795dd79650d.png)
+: 랜덤포레스트 / 피처 중요도
+![image](https://user-images.githubusercontent.com/68042068/144777575-2e97c0ac-d02f-4157-8cb3-2820a0de1ebc.png)
+: 로지스틱 회귀 상관계수
+
+
+## [[라인웹툰]인도네시아어_이진분류.ipynb](https://github.com/heonsooo/Bachelor_Thesis_LineWebtoon/blob/main/%5B%EB%9D%BC%EC%9D%B8%EC%9B%B9%ED%88%B0%5D%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84%EC%96%B4_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98.ipynb)
+  
+* 머신러닝 : Scikit-learn 랜덤 포레스트, 로지스틱 회귀를 이용한 이진분류 분류 모델 정확도 비교 
+* 
+![image](https://user-images.githubusercontent.com/68042068/144777626-27cc8e87-26d5-45c8-8ddf-e28008ad04da.png)
+![image](https://user-images.githubusercontent.com/68042068/144777637-806141d9-d84d-46f4-bc7c-00825934f25d.png)
+
+![image](https://user-images.githubusercontent.com/68042068/144777610-1c9f7938-3a62-403a-a872-f45be1b065dd.png)
+: 랜덤포레스트 / 피처 중요도
+![image](https://user-images.githubusercontent.com/68042068/144777619-caa54cfe-fd9c-4d16-ba4d-0bb0ee7b27d5.png)
+: 로지스틱 회귀 상관계수
+
