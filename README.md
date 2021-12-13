@@ -79,8 +79,9 @@
 ![image](https://user-images.githubusercontent.com/68042068/144777626-27cc8e87-26d5-45c8-8ddf-e28008ad04da.png)
 ![image](https://user-images.githubusercontent.com/68042068/144777637-806141d9-d84d-46f4-bc7c-00825934f25d.png)
 
-![image](https://user-images.githubusercontent.com/68042068/144777610-1c9f7938-3a62-403a-a872-f45be1b065dd.png)
-: 랜덤포레스트 / 피처 중요도
 ![image](https://user-images.githubusercontent.com/68042068/144777619-caa54cfe-fd9c-4d16-ba4d-0bb0ee7b27d5.png)
+: 랜덤포레스트 / 피처 중요도
+
+![image](https://user-images.githubusercontent.com/68042068/144777610-1c9f7938-3a62-403a-a872-f45be1b065dd.png)
 : 로지스틱 회귀 상관계수
 
