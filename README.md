@@ -99,3 +99,6 @@
 ![image](https://user-images.githubusercontent.com/68042068/144777610-1c9f7938-3a62-403a-a872-f45be1b065dd.png)
 : 로지스틱 회귀 상관계수
 
+## 논문 조회 
+
+구글 드라이브 URL : https://drive.google.com/file/d/1nlLLtQGlLbVFq9hzO_MjlhQ2_SDcn60P/view 
